@@ -899,8 +899,8 @@
         "replace_logo": "Trocar Logo",
         "reset_styling": "Redefinir estilo",
         "reset_styling_confirmation": "Tem certeza que quer resetar o estilo para o padrão?",
-        "show_formbricks_branding_in": "Mostrar a marca Formbricks em pesquisas {type}",
-        "show_powered_by_formbricks": "Mostrar assinatura \"Powered by Formbricks",
+        "show_formbricks_branding_in": "Mostrar a marca Infogito em pesquisas {type}",
+        "show_powered_by_formbricks": "Mostrar assinatura \"Powered by Infogito",
         "styling_updated_successfully": "Estilo atualizado com sucesso",
         "theme": "Tema",
         "theme_settings_description": "Crie um tema de estilo para todas as pesquisas. Você pode habilitar a personalização de estilo para cada pesquisa."

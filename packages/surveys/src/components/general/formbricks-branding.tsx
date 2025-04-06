@@ -9,7 +9,7 @@ export function FormbricksBranding() {
       <p className="fb-text-signature fb-text-xs">
         Powered by{" "}
         <b>
-          <span className="fb-text-branding-text hover:fb-text-signature">Formbricks</span>
+          <span className="fb-text-branding-text hover:fb-text-signature">Infogito</span>
         </b>
       </p>
     </a>

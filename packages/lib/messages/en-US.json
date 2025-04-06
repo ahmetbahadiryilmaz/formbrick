@@ -477,7 +477,7 @@
     "password_changed_email_heading": "Password changed",
     "password_changed_email_text": "Your password has been changed successfully.",
     "password_reset_notify_email_subject": "Your Formbricks password has been changed",
-    "powered_by_formbricks": "Powered by Formbricks",
+    "powered_by_formbricks": "Powered by Infogito",
     "privacy_policy": "Privacy Policy",
     "reject": "Reject",
     "response_finished_email_subject": "A response for {surveyName} was completed ✅",
@@ -900,7 +900,7 @@
         "reset_styling": "Reset styling",
         "reset_styling_confirmation": "Are you sure you want to reset the styling to default?",
         "show_formbricks_branding_in": "Show Formbricks Branding in {type} surveys",
-        "show_powered_by_formbricks": "Show 'Powered by Formbricks' Signature",
+        "show_powered_by_formbricks": "Show 'Powered by Infogito' Signature",
         "styling_updated_successfully": "Styling updated successfully",
         "theme": "Theme",
         "theme_settings_description": "Create a style theme for all surveys. You can enable custom styling for each survey."

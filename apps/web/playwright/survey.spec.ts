@@ -249,7 +249,7 @@ test.describe("Multi Language Survey Create", async () => {
 
     //add a new language
     await page.getByRole("link", { name: "Configuration" }).click();
-    await page.getByRole("link", { name: "Survey Languages" }).click();
+    //await page.getByRole("link", { name: "Survey Languages" }).click();
     await page.getByRole("button", { name: "Edit languages" }).click();
     await page.getByRole("button", { name: "Add language" }).click();
     await page.getByRole("button", { name: "Select" }).click();

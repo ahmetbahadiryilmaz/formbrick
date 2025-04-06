@@ -34,13 +34,13 @@ export const ProjectConfigNavigation = ({
       href: `/environments/${environmentId}/project/look`,
       current: pathname?.includes("/look"),
     },
-    {
+    /*{
       id: "languages",
       label: t("common.survey_languages"),
       icon: <LanguagesIcon className="h-5 w-5" />,
       href: `/environments/${environmentId}/project/languages`,
       current: pathname?.includes("/languages"),
-    },
+    },*/
     {
       id: "tags",
       label: t("common.tags"),
