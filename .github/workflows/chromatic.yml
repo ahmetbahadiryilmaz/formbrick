@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install --config.platform=linux --config.architecture=x64
       - name: Run Chromatic
-        uses: chromaui/action@c93e0bc3a63aa176e14a75b61a31847cbfdd341c # latest
+        uses: chromaui/action@649b4fd73c3f7cd7a65bd0b9f131349335ec661b # latest
         with:
           # ⚠️ Make sure to configure a `CHROMATIC_PROJECT_TOKEN` repository secret
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
